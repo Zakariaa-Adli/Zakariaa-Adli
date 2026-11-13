@@ -1,94 +1,117 @@
-<div align="center">
+ <div align="center">
 
-<h1>Zakariaa Adli</h1>
-<h3>Full-Stack Developer</h3>
+# Zakariaa Adli
+### Full-Stack Developer
 
 </div>
 
-<br>
+<br/>
 
 <p align="center">
-I build modern web products that look sharp, load fast, and feel effortless to use. My focus is simple: ship clean interfaces, solid backends, and dependable systems that help real clients get real work done.
+  Building modern web applications with clean interfaces, reliable backends, and a focus on real-world solutions.
 </p>
 
 <p align="center">
-I work with founders, startups, and small teams who want someone reliable to turn ideas into production-ready apps without the chaos.
+  I enjoy turning ideas into functional digital products, focusing on performance, usability, and maintainable code.
 </p>
 
-<br>
+<br/>
 
 <div align="center">
-  <h3>What I bring</h3>
+
+### What I Bring
+
 </div>
 
-<br>
+- Responsive and polished front-end experiences.
+- Structured and maintainable back-end systems.
+- Database design and management.
+- Clean APIs and deployment workflows.
 
-- Front-end experiences that are responsive, polished, and easy to navigate.
-- Back-end systems built for structure, scalability, and maintainability.
-- Database design and optimization with MySQL and PostgreSQL.
-- Deployment workflows that keep shipping smooth and predictable.
-
-<br>
+<br/>
 
 <div align="center">
-  <h3>Tech stack</h3>
-</div>
 
-<br>
+### Tech Stack
+
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux" />
 </p>
-
-<br>
-
-<div align="center">
-  <h3>Tools</h3>
-</div>
-
-<br>
 
 <p align="center">
-  <img src="https://skillicons.dev" alt="Tools icons" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,postgres,git,github" alt="Node.js, Express, Python, MySQL, PostgreSQL, Git, GitHub" />
 </p>
 
-<br>
+<br/>
 
 <div align="center">
-  <h3>Why clients work with me</h3>
+
+### Tools & Environment
+
 </div>
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,vercel,npm,postman,linux" alt="VS Code, Figma, Vercel, NPM, Postman, Linux" />
+</p>
 
-- Clear communication from first message to delivery.
-- Fast feedback cycles with focused progress.
-- Code that stays readable, extendable, and client-friendly.
-- I focus on business goals, not just technical tasks.
-
-<br>
+<br/>
 
 <div align="center">
-  <h3>Selected work</h3>
+
+### Why Work With Me
+
 </div>
 
-<br>
+- Clear communication and reliable collaboration.
+- Consistent progress and focused development.
+- Readable, scalable, and maintainable code.
+- A practical approach focused on solving problems.
 
-- Client websites and landing pages built to look sharp and convert.
-- Admin panels and dashboards designed for smooth internal workflows.
-- APIs and database-driven applications that scale cleanly over time.
-
-<br>
+<br/>
 
 <div align="center">
-  <h3>Contact</h3>
 
-  <p>
-    <a href="https://github.com/Zakariaa-Adli"><img src="https://shields.io" alt="GitHub"/></a>
-    <a href="https://x.com"><img src="https://shields.io" alt="X"/></a>
-    <a href="mailto:zakariaaadlii@gmail.com"><img src="https://shields.io" alt="Email"/></a>
-  </p>
+### Selected Work
 
-  <blockquote>
-    Code should be scalable, maintainable, and built with purpose.
-  </blockquote>
+</div>
+
+I build projects across different areas, including:
+
+- Modern web applications and landing pages.
+- Interactive dashboards and management systems.
+- E-commerce platforms.
+- APIs and database-driven applications.
+- Creative experiments and interactive experiences.
+
+<br/>
+
+<div align="center">
+
+### GitHub Statistics
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zakariaa-Adli&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariaa-Adli&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Connect With Me
+
+<a href="https://github.com/Zakariaa-Adli">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:zakariaaadlii@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+*Building with purpose. Improving with every project.*
+
 </div>
