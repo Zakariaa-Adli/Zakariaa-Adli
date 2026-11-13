@@ -89,17 +89,6 @@ I build projects across different areas, including:
 
 <div align="center">
 
-### GitHub Statistics
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zakariaa-Adli&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariaa-Adli&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### Connect With Me
 
